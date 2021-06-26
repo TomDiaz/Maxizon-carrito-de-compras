@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0l/OjXOZVY/Ip1FukRizmB+S8Fua8fv1EnxJ+6a5F3xFjiqeJ+vgIkqPn8K0A5iXwrYC/8poGXGViNLz5C0rUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomas\\Desktop\\maxizon - carrito de compras\\NEGOCIO\\NEGOCIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tomas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
